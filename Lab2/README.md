@@ -14,13 +14,13 @@ Screenshot Pipeline
 
 Screenshot Deployment
 
-![alt text](C:\Users\tamar\Desktop\Git\SoftwareDeployment\Lab2\Images\image-20211104212309979.png)
+![](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212309979.png)
 
 
 
 Screenshot Release Deployment
 
-![](C:\Users\tamar\Desktop\Git\SoftwareDeployment\Lab2\Images\image-20211104212359887.png)
+![](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212359887.png)
 
 
 
