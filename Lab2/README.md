@@ -6,10 +6,9 @@ WebApp Develop/Test: https://lab2webapptm.azurewebsites.net/
 
 WebApp Release: https://lab2webapptm-release.azurewebsites.net/
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Screenshot Pipeline
-![Screenshot Pipeline](/Images/image-20211104212203770.png)
+![Screenshot Pipeline](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212203770.png)
 
 
 
