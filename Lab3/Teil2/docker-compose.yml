@@ -1,0 +1,25 @@
+version: "3.9"
+    
+services:
+  db:
+    build: ./MySql/.
+    volumes:
+      - db_data:/var/lib/mysql
+    
+  wordpress:
+    depends_on:
+      - db
+    build: ./Wordpress/.
+    volumes:
+      - wordpress_data:/var/www/html
+    ports:
+      - "8000:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: tami
+      WORDPRESS_DB_PASSWORD: tami
+      WORDPRESS_DB_NAME: tami
+
+volumes:
+  db_data: {}
+  wordpress_data: {}
