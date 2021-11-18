@@ -7,20 +7,20 @@ WebApp Develop/Test: https://lab2webapptm.azurewebsites.net/
 WebApp Release: https://lab2webapptm-release.azurewebsites.net/
 
 
-
-Screenshot Pipeline ![](\Images\image-20211104212203770.png)
+Screenshot Pipeline
+![Screenshot Pipeline](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212203770.png)
 
 
 
 Screenshot Deployment
 
-![](C:\Users\tamar\Desktop\Git\SoftwareDeployment\Lab2\Images\image-20211104212309979.png)
+![](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212309979.png)
 
 
 
 Screenshot Release Deployment
 
-![](C:\Users\tamar\Desktop\Git\SoftwareDeployment\Lab2\Images\image-20211104212359887.png)
+![](https://github.com/TamaraMayer/SoftwareDeployment/blob/main/Lab2/Images/image-20211104212359887.png)
 
 
 
